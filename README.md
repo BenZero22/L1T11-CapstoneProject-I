@@ -10,11 +10,15 @@ interest rate, as well as the term of repayment in months.
 
 ## How to run finance_calculator.py
 In order to make use of this tool, users would require access to a python-enabled IDE Software Program to run the script.
-Simply copy and paste the code into the IDE and click run. Users interact with the Finance Tool within the interpreter
+Copy and paste code into IDE and click run.
+ 
 
 Examples of Supported IDEs:
  - Pycharm
+ ![Screenshot 2022-06-29 at 16 30 38](https://user-images.githubusercontent.com/105857693/176463429-533be283-d41b-4845-9fcf-97ed2d0c0eec.png)
+
  - Visual Code Studio
+![Screenshot 2022-06-29 at 16 32 32](https://user-images.githubusercontent.com/105857693/176463488-b741bf5f-56f5-4759-991b-2984705697dc.png)
 
 ## Contributing
 Pull requests are welcome. 
